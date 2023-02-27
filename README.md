@@ -11,8 +11,7 @@ CryptoKeySecure is an open source python-based app developed to monitor and mana
 - Develop a beautiful and functional code base
 - Provide capabilities to build upon and extend the power of the program
 - Create a useful toolset to help corporations and individuals elevate their cyersecurity protocols 
-- Generate code shorter than 100 lines if possible 
-- Include a copyright with the author name 'CY83R-3X71NC710N' and the year 2023
+- Create code shorter than 100 lines if possible 
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -30,7 +29,7 @@ In order to get the CryptoKeySecure app up and running, follow these steps:
 2. Ensure you have Python 3.5.3 or newer installed
 3. Install any necessary libraries as listed in the requirements.txt file
 4. Change any URLs or Keys as necessary to run on your own machine
-5. Run app.py
+5. Run main.py
 
 ## API
 The CryptoKeySecure application utilizes a combination of closed and open source APIs. The closed source APIs are a work in progress and will not be released to the public due to licensing agreements. Therefore, the user is encouraged to create open source alternatives to any of these closed-source APIs.
