@@ -1,0 +1,5 @@
+
+
+cryptography==3.2.1
+matplotlib==3.3.2
+pycryptodome==3.9.8
